@@ -1,8 +1,9 @@
 import './App.css';
-import Header from './components/Header';
+import Home from './pages/Home';
 
 function App() {
-  return <Header title="React Movie" />;
+  return <Home />;
+
 }
 
 export default App;
