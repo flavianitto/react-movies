@@ -18,6 +18,7 @@ export const Title = styled.h3`
     font-size: 14px;
     color: #4a4a4a;
     margin-bottom: 32px;
+    text-align: center;
 `;
 
 export const Button = styled.button`
